@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280" fill="none">
+  <!-- Original line drawing: a loose print for the margins of the menu. -->
+  <defs>
+    <g id="basil" stroke="#234833" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 86C3 57 12 28 28 0M5 61L-15 45M12 39L31 29M22 12L13 3"/>
+      <path d="M5 61C-20 63-29 48-29 31C-9 30 6 43 5 61ZM12 39C11 20 26 11 42 13C42 31 30 40 12 39ZM22 12C7 15-3 5-6-10C10-15 21-5 22 12ZM28 0C22-19 30-33 43-41C54-26 50-9 28 0Z"/>
+      <path d="M-22 38L0 57M16 36L35 20M-1-4L18 9M32-7L41-32M-14 40L-14 48M-7 47L-15 49M23 28L22 20M27 25L35 25" stroke-width=".85"/>
+    </g>
+    <g id="tomato" stroke="#ca4026" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-2-38C18-43 40-23 39-2C43 18 22 39 2 39C-19 42-41 24-40 3C-44-18-24-40-2-38Z"/>
+      <path d="M-2-31C17-34 32-19 32-1C35 16 18 32 1 32C-17 35-34 20-33 2C-36-16-20-33-2-31Z"/>
+      <path d="M-4-7C-14-7-24-11-22-19C-21-26-9-29-4-22C-1-18 1-9-4-7ZM7-4C7-14 12-25 19-21C28-16 29-6 22-2C16 1 8 2 7-4ZM4 8C15 7 26 12 22 20C18 28 7 28 3 22C0 17-1 9 4 8ZM-7 4C-8 14-12 25-20 21C-28 17-28 6-22 2C-17-1-8-1-7 4Z"/>
+      <path d="m-11-17-1-3m-5 7-3-1m32-1 2-3m3 8 3-1m-7 27 1 3m5-7 3 1m-31-2-2 3m-3-8-3 1" stroke-width="2"/>
+    </g>
+  </defs>
+  <g opacity=".22">
+    <use href="#basil" transform="translate(85 49) rotate(-34)"/>
+    <use href="#basil" transform="translate(369 165) rotate(42) scale(.85)"/>
+  </g>
+  <g opacity=".22">
+    <use href="#tomato" transform="translate(266 53) rotate(12) scale(.83)"/>
+    <use href="#tomato" transform="translate(145 218) rotate(-24) scale(.68)"/>
+  </g>
+  <g stroke="#ca4026" opacity=".24" stroke-width="1.2" stroke-linecap="round">
+    <path d="m32 215 5-4m-4 14 4 1m271-103 3 4m9-10-1 5m99-70 5 2m-6 8 3 2m-217 99 4-3"/>
+  </g>
+</svg>
